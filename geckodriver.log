@@ -1,0 +1,203 @@
+1529308238733	geckodriver	INFO	geckodriver 0.19.1
+1529308238749	geckodriver	INFO	Listening on 127.0.0.1:50105
+1529308241849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.1pNJtDMzTLnx"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529308244324	Marionette	INFO	Listening on port 50113
+1529308244975	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maharashtratimes.indiatimes.com/, line 198: TypeError: doc.getElementById(...) is null
+JavaScript error: https://maharashtratimes.indiatimes.com/, line 198: TypeError: doc.getElementById(...) is null
+JavaScript error: https://maharashtratimes.indiatimes.com/, line 198: TypeError: doc.getElementById(...) is null
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2388, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529308279811	Marionette	INFO	Listening on port 50647
+1529308280007	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+its/news/43114-meet-arjun-vajpai-third-youngest-indian-to-climb-mt-everest-who-is-now-eyeing-mt-kanchenjunga.html, line 198: TypeError: doc.getElementById(...) is null
+JavaScript error: https://secure-ds.serving-sys.com/burstingres/customscripts/groupmanalyticsv2-in.js?placementid=24950366&campaignid=886934, line 145: ReferenceError: gmThisScript is not defined
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10204, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/s0.2mdn.net/879366/html_inpage_rendering_lib_200_241.js, line 154: TypeError: b.indexOf is not a function
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+ential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529308335230	Marionette	INFO	Listening on port 51613
+1529308335392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+sers\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+ERR: egl::Display::initialize(470): ANGLE Display::initialize error 12289: No available renderers.
+[Child 13308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12960, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+l_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+ERR: egl::Display::initialize(470): ANGLE Display::initialize error 12289: No available renderers.
+[Child 14328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529312491582	geckodriver	INFO	geckodriver 0.19.1
+1529312491582	geckodriver	INFO	Listening on 127.0.0.1:54416
+1529312494674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.outkj15EeSV4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312496273	Marionette	INFO	Listening on port 54424
+1529312496733	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maharashtratimes.indiatimes.com/, line 198: TypeError: doc.getElementById(...) is null
+[Child 10680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+1529312543100	geckodriver	INFO	geckodriver 0.19.1
+1529312543100	geckodriver	INFO	Listening on 127.0.0.1:54599
+1529312546200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.V8o1tLCZ3O4G"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312547823	Marionette	INFO	Listening on port 54607
+1529312548233	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maharashtratimes.indiatimes.com/, line 198: TypeError: doc.getElementById(...) is null
+1529312555010	geckodriver	INFO	geckodriver 0.19.1
+1529312555026	geckodriver	INFO	Listening on 127.0.0.1:54738
+1529312558141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.6VEdSQaUXm9i"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312559762	Marionette	INFO	Listening on port 54746
+1529312560187	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1529312563584	geckodriver	INFO	geckodriver 0.19.1
+1529312563584	geckodriver	INFO	Listening on 127.0.0.1:54793
+1529312566689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.dhniC6nlI1wO"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312568279	Marionette	INFO	Listening on port 54801
+1529312568726	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://timesofindia.indiatimes.com/toi_js/version-240,minify-1.cms, line 148: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1529312578452	geckodriver	INFO	geckodriver 0.19.1
+1529312578452	geckodriver	INFO	Listening on 127.0.0.1:55002
+1529312581566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.EU2DC4PAYPka"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312583105	Marionette	INFO	Listening on port 55010
+1529312583601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529312842420	geckodriver	INFO	geckodriver 0.19.1
+1529312842427	geckodriver	INFO	Listening on 127.0.0.1:55321
+1529312845536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.Lv5tQoL5qu83"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312847132	Marionette	INFO	Listening on port 55330
+1529312847557	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maharashtratimes.indiatimes.com/, line 198: TypeError: doc.getElementById(...) is null
+1529312853105	geckodriver	INFO	geckodriver 0.19.1
+1529312853112	geckodriver	INFO	Listening on 127.0.0.1:55444
+1529312856198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.utpg3tqEX97B"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312857883	Marionette	INFO	Listening on port 55474
+1529312858223	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://timesofindia.indiatimes.com/toi_js/version-240,minify-1.cms, line 148: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+o read VR Path Registry from C:\Users\Ankit.Vashishth\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://timesofindia.indiatimes.com/toi_js/version-240,minify-1.cms, line 148: unreachable code after return statement
+1529312903819	geckodriver	INFO	geckodriver 0.19.1
+1529312903826	geckodriver	INFO	Listening on 127.0.0.1:55875
+1529312906892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ANKIT~1.VAS\\AppData\\Local\\Temp\\rust_mozprofile.GYBoZIZuJfiE"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1529312908631	Marionette	INFO	Listening on port 55905
+1529312908928	Marionette	WARN	TLS certificate errors will be ignored for this session
